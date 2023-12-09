@@ -1,0 +1,17 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+E:/vivado/RISCV-CPU/RISCV_CPU.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sim_1/new/testbench.v,1687887413,verilog,,,,testbench,,,,,,,,
+E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/ALU.v,1688107406,verilog,,E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/Memory_RW.v,E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/myhead.v,ALU,,,,,,,,
+E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/Memory_RW.v,1687955939,verilog,,E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/control.v,E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/myhead.v,Memory_RW,,,,,,,,
+E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/control.v,1687930621,verilog,,E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/instruction_fetch.v,E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/myhead.v,control,,,,,,,,
+E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/instruction_fetch.v,1687882567,verilog,,E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/make_imm.v,E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/myhead.v,instruction_fetch,,,,,,,,
+E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/make_imm.v,1687869199,verilog,,E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/npc.v,E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/myhead.v,make_imm,,,,,,,,
+E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/myhead.v,1687929916,verilog,,,,,,,,,,,,
+E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/npc.v,1687867558,verilog,,E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/pc.v,,npc,,,,,,,,
+E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/pc.v,1687883905,verilog,,E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/register_file.v,E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/myhead.v,pc,,,,,,,,
+E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/register_file.v,1687884084,verilog,,E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/top.v,E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/myhead.v,reg_write_choice;register_file,,,,,,,,
+E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/top.v,1687930253,verilog,,E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sim_1/new/testbench.v,E:/vivado/RISCV-CPU/RISCV_CPU.srcs/sources_1/new/myhead.v,top,,,,,,,,
+E:/vivado/projects/RISCV_CPU.srcs/sources_1/new/myhead.v,1687929916,verilog,,,,,,,,,,,,
